@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+</head>
+<body style="background-image: url('https://cdna.artstation.com/p/assets/images/images/051/184/376/original/jeremy-anninos-ashen-pyke-final.gif?1656647691');background-repeat: no-repeat;background-size: cover;">
+    <center>
+    <h1 style="color: purple;">𝓐𝓵𝓮𝓳𝓪𝓷𝓭𝓻𝓸 𝓢.𝓡𝓾𝓲𝔃</h1>
+       <table border="2" align="center" style="width: 400px;">
+        <tr>
+            <td><h1 style="color: purple;">&emsp;&emsp;&emsp;𝕸𝖎𝖘 𝕿𝖗𝖆𝖇𝖆𝖏𝖔𝖘</h1></td>
+            <br>
+            <br
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </tr>
+       </table>
+       <br>
+       <br>
+       <br>
+       <br>
+       <table border="2" align="center">
+        <tr>
+            <td style="width: 200px;">
+                <img width="100%" src="https://pm1.aminoapps.com/8215/1628173f0da49ade1bc89ed86c596a40d591085ar1-300-300v2_hq.jpg">
+                <h2 style="color: rgb(255, 0, 200);">&emsp;𝓔𝓳𝓮𝓻𝓬𝓲𝓬𝓲𝓸 𝟙</h2>
+                <a target="_blank" href="https://alejoruiiz.github.io/Ejercicios-Riwi/Ejercicio1.html">𝕀𝕟𝕚𝕔𝕚𝕠 𝕕𝕖 𝕤𝕖𝕤𝕚𝕠𝕟</a>
+            </td>
+            <td style="width: 200px;">
+                <img width="100%" src="https://pm1.aminoapps.com/7233/c4fa67d69f92d4d9b6f7010645e3c8fe96c538e6r1-500-500v2_hq.jpg">
+                <h2 style="color: rgb(255, 0, 200);">&emsp;𝓮𝓻𝓬𝓲𝓬𝓲𝓸 𝟚</h2>
+               <h3></h3><a target="_blank" href="https://alejoruiiz.github.io/Ejercicios-Riwi/Ejercicio2.html">ℍ𝕠𝕛𝕒 𝕕𝕖 𝕧𝕚𝕕𝕒</a>
+            </td>
+            <td style="width: 200px;">
+                <img width="100%" src="https://pm1.aminoapps.com/7669/6a658485e9d3ee6b2cb3f11a4ee5909eefedb58ar1-300-300v2_hq.jpg">
+                <h2 style="color: rgb(255, 0, 200);">&emsp;𝓔𝓳𝓮𝓻𝓬𝓲𝓬𝓲𝓸 𝟛</h2>
+                <a target="_blank" href="">𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞</a>
+            </td>
+            <td style="width: 200px;">
+                <img width="100%" src="https://pbs.twimg.com/media/FfYQ8uWWYAMD01r.jpg">
+                <h2 style="color: rgb(255, 0, 200);">&emsp;𝓔𝓳𝓮𝓻𝓬𝓲𝓬𝓲𝓸 𝟜</h2>
+                <a target="_blank" href="">ℙ𝕖𝕟𝕕𝕚𝕖𝕟𝕥𝕖</a>
+            </td>
+        </tr>
+       </table> 
+        
+</center>
+</body>
+</html>
+
+
+
+<!--
+<a target="_blank" href="">𝔼𝕛𝕖𝕣𝕔𝕚𝕔𝕚𝕠 𝟜</a>
+-->
